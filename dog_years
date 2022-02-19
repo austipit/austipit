@@ -1,0 +1,19 @@
+/*
+    This page of code was written in Swift. It tells you how to calculate a dogs age in relation to human years. 
+      Here is my dog's current age!
+  laterYears = (dogAge - 2) * 4
+*/
+
+var dogAge: Double = 4
+// Blue's current age
+
+var earlyYears: Double = 21
+// first two years in human years
+
+var laterYears: Double = (dogAge - 2) * 4
+//each year after the first two in human years
+
+var humanYears: Double = earlyYears + laterYears
+// sum in human years
+
+print("My name is Blue! Ruff Ruff, I am \(humanYears) years old in human years.")
