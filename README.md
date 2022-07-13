@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @austipit
-- 👀 I’m interested in becoming a I.T. Specialist...programmer, basic network/hardware troubleshooting, flow.
-- 🌱 I’m currently learning Python3.0
+- 👀 I’m interested in becoming a Java programmer, or a cybersecurity analyst/IR/SOC.
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate with others
 - 📫 How to reach me...linkedIn (Austin Pitts) , austipit@gmail.com
 <!---
